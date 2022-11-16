@@ -10,6 +10,12 @@ Welcome to SimpleArray's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+   image:: \\img\\gif_1.gif
+   :scale: 40%
+   :height: 100px
+   :width: 200px
+   :align: left
+
 
 
 Indices and tables
