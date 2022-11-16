@@ -10,10 +10,10 @@ Welcome to SimpleArray's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-   image:: \\img\\gif_1.gif
-   :scale: 40%
-   :height: 100px
-   :width: 200px
+
+
+.. image:: /img/gif_1.gif
+   :scale: 50%
    :align: left
 
 
@@ -24,3 +24,4 @@ Indices and tables
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
+
