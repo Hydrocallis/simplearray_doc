@@ -14,6 +14,8 @@ release = '2022-11-16'
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
 
+html_static_path = ["_static"]
+
 extensions = [
 
         ]
