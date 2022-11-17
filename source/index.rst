@@ -10,13 +10,10 @@ Welcome to SimpleArray's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-
-
-.. image:: /img/gif_1.gif
-   :scale: 50%
-   :align: left
-
-
+   ./Easy Knife Project
+   ./World Origin Move
+   ./ObjectEasyArray
+   
 
 Indices and tables
 ==================
@@ -24,4 +21,14 @@ Indices and tables
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
+
+
+
+
+
+
+
+
+
+
 
