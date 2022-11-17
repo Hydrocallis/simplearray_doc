@@ -15,7 +15,7 @@ release = '2022-11-16'
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
 
 extensions = [
-    'sphinxcontrib.video'
+
         ]
 
 templates_path = ['_templates']

@@ -1,7 +1,9 @@
 ObjectEasyArray
 ===============
 
+.. raw:: html
 
-.. video:: _static\ObjectEasyArray.mp4
-   :width: 500
-   :height: 300
+   <video width="500" height="300" controls >
+      <source src="_static\ObjectEasyArray.mp4" type="video/mp4">
+      Video
+      </video>
