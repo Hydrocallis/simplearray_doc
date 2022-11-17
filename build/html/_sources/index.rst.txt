@@ -6,13 +6,14 @@
 Welcome to SimpleArray's documentation!
 =======================================
 
+
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
+   
+   ./objectmode
+   ./EditMode
 
-   ./Easy Knife Project
-   ./World Origin Move
-   ./ObjectEasyArray
    
 
 Indices and tables

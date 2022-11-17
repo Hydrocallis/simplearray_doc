@@ -6,20 +6,14 @@
 Welcome to SimpleArray's documentation!
 =======================================
 
-OBJECT MODE
+
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
+   
+   ./objectmode
+   ./EditMode
 
-   ./ObjectEasyArray
-   ./Circle Dupulicate
-
-EDIT MESH MODE
-.. toctree::
-   :maxdepth: 2
-   :caption: Contents:
-   ./Easy Knife Project
-   ./World Origin Move
    
 
 Indices and tables
