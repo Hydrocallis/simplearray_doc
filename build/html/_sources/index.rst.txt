@@ -13,8 +13,30 @@ Welcome to SimpleArray's documentation!
    
    ./objectmode
    ./EditMode
+   ./option
 
-   
+
+Update Information   
+==================
+(アップデート情報)
+・2022-12-31: v0_1_4
+
+|image|
+
+
+最大頂点数の警告表示の調整機能を
+アドオンのプレファレンスに追加
+
+Added the ability to adjust the maximum vertex warning display,
+Added to add-on preferences
+
+
+・2022-11-22: v0_1_3
+
+初めてのリリース
+First release
+
+
 
 Indices and tables
 ==================
@@ -25,6 +47,9 @@ Indices and tables
 
 
 
+
+.. |image| image:: /img/10_maxhold.jpg
+   :scale: 100%
 
 
 
