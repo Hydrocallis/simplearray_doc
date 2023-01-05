@@ -19,7 +19,19 @@ Welcome to SimpleArray's documentation!
 Update Information   
 ==================
 (アップデート情報)
-・2022-12-31: v0_1_4
+
+
+・2022-12-31: v0_1_5
+
+|deform|
+
+:doc:`/edimode/Mesh Array/Mesh Array-1` 
+
+メッシュアレイに変形機能を追加
+
+
+Deformation function added to mesh array
+
 
 |image|
 
@@ -49,6 +61,10 @@ Indices and tables
 
 
 .. |image| image:: /img/10_maxhold.jpg
+   :scale: 100%
+
+
+.. |deform| image:: /img/13_deform.jpg
    :scale: 100%
 
 
